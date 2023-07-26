@@ -6,7 +6,7 @@
 
 LINK THE ENDPOINTS: https://h7yhksyfkf.execute-api.us-east-1.amazonaws.com/people
 
-this is the endpoint:
+This is the endpoint:
 
 POST                /people: TO create new person
 
