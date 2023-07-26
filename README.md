@@ -9,7 +9,19 @@ LINK THE ENDPOINTS: https://h7yhksyfkf.execute-api.us-east-1.amazonaws.com/peopl
 this is the endpoint:
 
 POST                /people: TO create new person
+
+---
+
 GET                  /people/{id}:  to getperson by id
+
+---
+
 GET                 /people: to  get all people
+
+---
+
 PUT                /people/{id}: update person by id
+
+---
+
 DELETE             /people/{id}: to delete person by id
